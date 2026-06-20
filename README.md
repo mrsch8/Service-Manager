@@ -46,7 +46,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://gitee.com/chaolangdechen/ServiceManager.git
+https://github.com/mrsch8/Service-Manager.git
 cd ServiceManager
 
 # 2. 安装依赖
@@ -58,7 +58,7 @@ python service_manager.py
 
 ### 方式二：使用打包后的 exe
 
-1. 从 [Releases](https://gitee.com/chaolangdechen/ServiceManager/releases) 下载最新版本
+1. 从https://github.com/mrsch8/Service-Manager.git下载最新版本
 2. 解压到任意目录
 3. 双击 `服务管理器.exe` 运行
 

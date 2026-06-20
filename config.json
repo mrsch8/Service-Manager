@@ -1,0 +1,35 @@
+{
+    "theme": "dark",
+    "window": {
+        "title": "服务管理器",
+        "width": 600,
+        "height": 500
+    },
+    "services": [
+        {
+            "name": "MySQL",
+            "display_name": "MySQL",
+            "description": "关系型数据库",
+            "type": "windows",
+            "service_name": "MySQL",
+            "icon": "🐬"
+        },
+        {
+            "name": "Redis",
+            "display_name": "Redis",
+            "description": "内存数据库",
+            "type": "redis",
+            "service_name": "Redis",
+            "path": "D:\\Develop\\Redis-x64-5.0.14.1",
+            "icon": "🔴"
+        },
+        {
+            "name": "RabbitMQ",
+            "display_name": "RabbitMQ",
+            "description": "消息队列",
+            "type": "windows",
+            "service_name": "RabbitMQ",
+            "icon": "🐰"
+        }
+    ]
+}
